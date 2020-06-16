@@ -31,12 +31,12 @@ statistic = 'cases'
 trace3 = CovidTrace(US_county, US_state, statistic, num_miles)
 
 
-US_county = 'Wayne'
-US_state = 'MI'
-num_miles = 75
-statistic = 'cases'
+# US_county = 'Wayne'
+# US_state = 'MI'
+# num_miles = 75
+# statistic = 'cases'
 
-trace4 = CovidTrace(US_county, US_state, statistic, num_miles)
+# trace4 = CovidTrace(US_county, US_state, statistic, num_miles)
 
 
 """
